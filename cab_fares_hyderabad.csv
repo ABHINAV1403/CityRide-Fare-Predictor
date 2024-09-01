@@ -1,0 +1,93 @@
+﻿Pickup_Location,Dropoff_Location,distance_km,duration_min,Car_Fare_inr,Auto_Fare_inr,Bike_Fare_inr
+Dilsukhnagar,KPHB,22,50,420,359.5,199
+Rajendranagar,Shamshabad,12,25,245,210.25,109
+Charminar,Begumpet,11,35,240,168.25,110.5
+Secunderabad,LB Nagar,20,45,385,283.75,162.5
+Secunderabad,Charminar,10,30,220,137.5,105
+Begumpet,Jubilee Hills,8,25,165,132.75,88.5
+LB Nagar,Kachiguda,10,30,220,137.5,105
+Koti,Somajiguda,7,20,135,99.5,69
+Kachiguda,Banjara Hills,9,30,285,150,105
+Gachibowli,Banjara Hills,12,35,300,283.75,125
+Kukatpally,Secunderabad,15,40,365,300,205
+Dilsukhnagar,Secunderabad,18,45,370,270,146
+Hitech City,Kachiguda,18,50,370,270,146
+Kukatpally,Hyderguda,20,50,400,300,160
+Begumpet,Mehdipatnam,10,30,220,137.5,105
+LB Nagar,Gachibowli,28,60,580,495,236
+Koti,Jubilee Hills,12,35,220,168.25,104
+Shamshabad,Somajiguda,25,50,415,375,205
+Koti,Mehdipatnam,8,25,165,132.75,88.5
+Madhapur,Somajiguda,12,35,240,168.25,104
+Rajendranagar,Banjara Hills,15,35,325,240,125
+Rajendranagar,Koti,12,30,245,180,87
+Charminar,Shamshabad,15,35,325,240,105
+Kachiguda,Charminar,5,20,95,60,45
+Secunderabad,Charminar,10,30,220,137.5,105
+Moosapet,Kukatpally,5,15,95,60,45
+Koti,Koti,0,5,40,30,20
+Koti,Hyderguda,3,10,65,42,41
+Koti,Jubilee Hills,12,35,220,168.25,104
+Hyderguda,Koti,3,10,65,42,41
+Begumpet,Mehdipatnam,10,30,220,137.5,105
+Charminar,KPHB,22,55,420,359.5,199
+Hitech City,Banjara Hills,10,30,220,137.5,105
+LB Nagar,Secunderabad,20,45,385,283.75,162.5
+Charminar,Banjara Hills,12,35,240,168.25,104
+Jubilee Hills,Somajiguda,8,25,165,132.75,88.5
+Secunderabad,KPHB,15,40,325,300,125
+Somajiguda,Shamshabad,25,50,415,375,205
+Kachiguda,Mehdipatnam,10,30,220,137.5,105
+Banjara Hills,Mehdipatnam,5,15,95,60,45
+Charminar,Koti,4,15,64,48,32
+Charminar,Mehdipatnam,10,30,220,137.5,105
+Gachibowli,Banjara Hills,12,35,300,283.75,125
+Madhapur,Secunderabad,18,50,370,270,146
+Kukatpally,Dilsukhnagar,25,60,420,375,205
+Mehdipatnam,Hyderguda,8,20,140,96,76
+Moosapet,Charminar,20,55,400,300,140
+Rajendranagar,Gachibowli,12,30,245,180,87
+Gachibowli,Secunderabad,20,50,400,300,160
+LB Nagar,KPHB,25,60,420,375,205
+Jubilee Hills,Somajiguda,8,25,165,132.75,88.5
+Hitech City,KPHB,5,15,95,60,45
+Begumpet,Somajiguda,5,15,95,60,45
+LB Nagar,Shamshabad,25,50,420,375,205
+Secunderabad,Hyderguda,8,20,140,96,76
+Kukatpally,Shamshabad,35,70,625,495,245
+Somajiguda,Koti,7,20,135,99.5,69
+Hyderguda,Hitech City,12,35,225,150,90
+Kachiguda,Mehdipatnam,10,30,220,137.5,105
+Charminar,Charminar,0,5,40,30,20
+Hyderguda,Gachibowli,15,40,325,240,160
+Secunderabad,Kukatpally,15,40,325,300,205
+Dilsukhnagar,KPHB,22,50,420,359.5,199
+Jubilee Hills,Begumpet,8,25,165,132.75,88.5
+Somajiguda,Rajendranagar,15,40,325,180,125
+Gachibowli,LB Nagar,28,60,580,495,236
+Kukatpally,Kachiguda,20,50,400,300,160
+Gachibowli,Mehdipatnam,12,30,220,144,104
+Rajendranagar,Rajendranagar,0,5,40,30,20
+Secunderabad,Somajiguda,8,20,140,96,76
+Dilsukhnagar,Kukatpally,22,50,370,240,154
+Gachibowli,Rajendranagar,12,30,220,144,87
+Mehdipatnam,Hitech City,12,30,220,144,90
+Hyderguda,Dilsukhnagar,10,30,190,120,90
+Rajendranagar,Secunderabad,20,45,340,240,140
+Secunderabad,Kachiguda,5,15,95,60,45
+KPHB,Secunderabad,15,40,325,180,125
+Shamshabad,Jubilee Hills,25,50,415,300,205
+Moosapet,Dilsukhnagar,22,50,370,284,174
+Madhapur,Kukatpally,5,15,95,60,45
+LB Nagar,Secunderabad,20,45,340,240,140
+Secunderabad,Madhapur,18,50,370,216,146
+Charminar,Somajiguda,12,35,220,144,104
+Madhapur,Charminar,18,50,370,216,146
+Moosapet,Mehdipatnam,12,35,225,144,104
+Kachiguda,Jubilee Hills,12,35,220,144,104
+Gachibowli,Somajiguda,15,40,325,180,125
+Banjara Hills,Madhapur,8,25,140,96,76
+Shamshabad,Rajendranagar,12,25,220,144,104
+Secunderabad,Mehdipatnam,15,40,325,180,125
+Banjara Hills,Banjara Hills,0,5,40,30,20
+Jubilee Hills,Koti,12,35,220,168.25,104
